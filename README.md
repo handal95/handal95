@@ -15,14 +15,14 @@
 
 ### TIMEBAND
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=handal95&repo=timeband)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=handal95&repo=timeband)](https://github.com/handal95/timeband)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ![agri](https://user-images.githubusercontent.com/45425838/140523125-9296a405-7ffe-436a-aab5-f5f5e335e020.gif)
 
 ### Unmasking-Converter
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AI-competition-3to1&repo=unmasking-converter)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AI-competition-3to1&repo=unmasking-converter)](https://github.com/AI-competition-3to1/unmasking-converter)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ![unmasking-converter](https://user-images.githubusercontent.com/45425838/140524921-317b232a-d2c7-4cec-9be6-f6389e086162.gif)
